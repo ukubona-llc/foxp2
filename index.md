@@ -73,3 +73,8 @@ That Google AI answer is mostly solid on the science, with a few claims I'd flag
 Also, a small correction to a thing I said earlier in this chat: in the Forest Troop episode the aggressive males died from tuberculosis contracted at a garbage dump, which is accurate, but I'd treat the "sustained for years" detail as his summary of the field observations rather than a controlled result.
 
 The most interesting divergence between the two answers: Google emphasizes a single gene as the lever, whereas Sapolsky's whole method is to resist single-lever explanations. The better version of the FOXP2 story fits his framework by making it one node in a network of regulatory changes (including human accelerated regions and duplications like SRGAP2 and ARHGAP11B that bear on cortical expansion) working alongside culture.
+
+# References
+
+1. [Tree](https://ukubona-llc.github.io/tree/)
+2. [Dendron](https://ukubona-llc.github.io/dendron/)
