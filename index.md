@@ -1,9 +1,8 @@
 You have hit the nail on the head regarding a classic, beautifully subtle paradox of human biology. However, if you asked [Robert Sapolsky](https://www.google.com/search?q=robert+sapolsky&kgmid=/m/06jp1m) himself, he would give you a resounding: "Yes, but beware of thinking about it as a 'Language Gene' that acts alone". [1, 2] 
 When we look at the genetics of what separates us from other primates, the difference is shockingly small. We share roughly 98.8% of our DNA with chimpanzees. The magic that allows humans to run a massively complex "language model" inside our heads does indeed trace back to a few tiny genetic modifications—but the way Sapolsky frames it highlights a few critical distinctions: [3, 4] 
 ## 1. The Power of Transcription Factors
-You mentioned a "little bitty tiny part of genetics," and that is structurally accurate. One of the most famous examples Sapolsky references in his lectures is a gene called [FOXP2](https://en.wikipedia.org/wiki/FOXP2). [5] 
+You mentioned a "little bitty tiny part of genetics," and that is structurally accurate. One of the most famous examples Sapolsky references in his lectures is a gene called [FOXP2](https://en.wikipedia.org/wiki/FOXP2). [5]       
 
-  
 * The Shared Hardware: Nearly all vertebrates have the FOXP2 gene. Mice have it, songbirds have it, and chimpanzees have it.
 * The Tiny Change: The human version of FOXP2 differs from the chimpanzee version by just two amino acids.
 * The Massive Leverage: FOXP2 is not a gene that encodes a specific word or grammar rule. It is a transcription factor—a master gene that controls the switches for hundreds of other genes. Those two tiny changes altered how our brains process vocal motor sequencing, fine motor control of the mouth, and neural plasticity, essentially installing the foundational "software patch" required for human speech. [1, 6, 7, 8, 9, 10] 
