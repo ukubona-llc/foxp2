@@ -3,11 +3,11 @@ When we look at the genetics of what separates us from other primates, the diffe
 ## 1. The Power of Transcription Factors
 You mentioned a "little bitty tiny part of genetics," and that is structurally accurate. One of the most famous examples Sapolsky references in his lectures is a gene called [FOXP2](https://en.wikipedia.org/wiki/FOXP2). [5] 
 
-* 
+  
 * The Shared Hardware: Nearly all vertebrates have the FOXP2 gene. Mice have it, songbirds have it, and chimpanzees have it.
 * The Tiny Change: The human version of FOXP2 differs from the chimpanzee version by just two amino acids.
 * The Massive Leverage: FOXP2 is not a gene that encodes a specific word or grammar rule. It is a transcription factor—a master gene that controls the switches for hundreds of other genes. Those two tiny changes altered how our brains process vocal motor sequencing, fine motor control of the mouth, and neural plasticity, essentially installing the foundational "software patch" required for human speech. [1, 6, 7, 8, 9, 10] 
-* 
+
 
 ## 2. The Scale Argument: We Didn't Invent New Gears
 Sapolsky frequently warns against "categorical thinking"—the trap of believing that humans developed entirely new, unique biological modules out of nowhere. [4] 
@@ -15,27 +15,27 @@ Instead, those tiny genetic tweaks simply scaled up what was already there. Our 
 ## 3. The Catch: Genetics is Not Destiny
 While a tiny genetic variation permits the capacity for language, Sapolsky's core thesis as a behavioral biologist is that genes do not work in a vacuum. [8, 12] 
 
-* 
+  
 * A human child born with perfectly normal FOXP2 genes who is isolated in a room and never spoken to will never develop language.
 * The genetics merely create an open-ended capability. The environment, culture, and social interaction are what actually program the model. [8, 13] 
-* 
+  
 
 So, it is an incredibly small genetic variance that opens the door. But it's what we do with that open door—using it to invent metaphors, tell lies, write poetry, and organize millions of people around abstract beliefs—that truly makes us the "uniquier" primate. [4] 
 It sounds like you're thinking about the brain as a biological neural network. Would you like to explore how Sapolsky compares the way human brains process abstract metaphors versus how other primates process literal reality? [2, 4] 
 
-[1] [https://en.wikipedia.org](https://en.wikipedia.org/wiki/FOXP2)
-[2] [https://www.antoinebuteau.com](https://www.antoinebuteau.com/lessons-from-robert-sapolsky/)
-[3] [https://www.eurekalert.org](https://www.eurekalert.org/news-releases/875259)
-[4] [https://www.ted.com](https://www.ted.com/talks/robert_sapolsky_the_uniqueness_of_humans)
-[5] [https://www.youtube.com](https://www.youtube.com/watch?v=w_f4yYMEQHI)
-[6] [https://pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/12192408/)
-[7] [https://www.researchgate.net](https://www.researchgate.net/publication/314449560_Next_stop_Language_The_%27FOXP2%27_gene%27s_journey_through_time)
-[8] [https://www.youtube.com](https://www.youtube.com/watch?v=oAof2XqVgQA)
-[9] [https://www.dongascience.com](https://www.dongascience.com/en/news/23879)
-[10] [https://journals.library.columbia.edu](https://journals.library.columbia.edu/index.php/cusj/blog/view/615)
-[11] [https://www.cliffsnotes.com](https://www.cliffsnotes.com/tutors-problems/Anthropology/48287992-Robert-Sapolsky-2009-The-Uniqueness-of-Humans-/)
-[12] [https://www.learningandthebrain.com](https://www.learningandthebrain.com/blog/behave-the-biology-of-humans-at-our-best-and-worst-robert-sapolsky/)
-[13] [https://www.youtube.com](https://www.youtube.com/watch?v=SpPWmul6gVs)
+[1] [https://en.wikipedia.org](https://en.wikipedia.org/wiki/FOXP2)         
+[2] [https://www.antoinebuteau.com](https://www.antoinebuteau.com/lessons-from-robert-sapolsky/)      
+[3] [https://www.eurekalert.org](https://www.eurekalert.org/news-releases/875259)      
+[4] [https://www.ted.com](https://www.ted.com/talks/robert_sapolsky_the_uniqueness_of_humans)     
+[5] [https://www.youtube.com](https://www.youtube.com/watch?v=w_f4yYMEQHI)         
+[6] [https://pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/12192408/)       
+[7] [https://www.researchgate.net](https://www.researchgate.net/publication/314449560_Next_stop_Language_The_%27FOXP2%27_gene%27s_journey_through_time)      
+[8] [https://www.youtube.com](https://www.youtube.com/watch?v=oAof2XqVgQA)       
+[9] [https://www.dongascience.com](https://www.dongascience.com/en/news/23879)           
+[10] [https://journals.library.columbia.edu](https://journals.library.columbia.edu/index.php/cusj/blog/view/615)        
+[11] [https://www.cliffsnotes.com](https://www.cliffsnotes.com/tutors-problems/Anthropology/48287992-Robert-Sapolsky-2009-The-Uniqueness-of-Humans-/)         
+[12] [https://www.learningandthebrain.com](https://www.learningandthebrain.com/blog/behave-the-biology-of-humans-at-our-best-and-worst-robert-sapolsky/)          
+[13] [https://www.youtube.com](https://www.youtube.com/watch?v=SpPWmul6gVs)    
 
 
 ---
